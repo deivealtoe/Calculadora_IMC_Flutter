@@ -4,11 +4,11 @@ A new Flutter project.
 
 ## Prints
 
-![Home](./_print_app/home.png =250px)
+<img src='./_print_app/home.png' alt='Home' width='250'>
 
-![Campos Preenchidos](./_print_app/preenchido.png =250px)
+<img src='./_print_app/preenchido.png' alt='Campos Preenchidos' width='250'>
 
-![Campos Obrigatórios](./_print_app/campos_obrigatorios.png =250px)
+<img src='./_print_app/campos_obrigatorios.png' alt='Campos Obrigatórios' width='250'>
 
 ## Getting Started
 
