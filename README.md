@@ -2,6 +2,14 @@
 
 A new Flutter project.
 
+## Prints
+
+![Home](/_print_app/home.png)
+
+![Campos Preenchidos](/_print_app/preenchido.png)
+
+![Campos Obrigatórios](/_print_app/campos_obrigatorios.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
